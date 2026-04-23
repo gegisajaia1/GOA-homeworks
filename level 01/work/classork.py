@@ -1,0 +1,5 @@
+print("gegi sajaia")
+print("classwork")
+print("discord")
+print("man")
+print("teacher")
