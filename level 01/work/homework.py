@@ -17,4 +17,9 @@ print("iron door")
 print("fast car")
 print("useful information")
 print("healthy food")
-print("runaway models")
+print("runaway models") 
+
+
+# chems mier gacnobili jgufelebi
+print("giorgi dolidze") 
+print("tornike tsiklauri")
