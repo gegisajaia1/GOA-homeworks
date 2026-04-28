@@ -1,0 +1,56 @@
+# string არის ნებისმიერი მნიშვნელობა რაც მოქცეულია ბრჭყალებს შორის.
+# integer არის ნებისმიერი მთელი რიცხვი.
+#  float არის ნებისმიერი ათწილადი რიცხვი.
+
+# string
+print("i am gegi")
+print("english lession")
+print("green apple rolling")
+print("hospital")
+print("georgia")
+
+#integer
+print(45)
+print(90)
+print(135)
+print(180)
+print(50000)
+
+
+#float 
+print(40.45)
+print(5.2)
+print(1002.234)
+print(1.5)
+print(9.2)
+
+
+car='bmw'
+shirt='polo'
+watch='rolex'
+shoes='nike'
+glasses='prada'
+
+print(car)
+print(shirt)
+print(watch)
+print(shoes)
+print(glasses)
+
+
+
+print(6+23)
+print(90+110)
+print(90+31)
+
+print(90-45)
+print(100-99)
+print(41-21)
+
+print(2*3)
+print(8*8)
+print(7*9)
+
+print(9/3)
+print(30/5)
+print(50/10)
