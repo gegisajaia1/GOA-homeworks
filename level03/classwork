@@ -1,0 +1,15 @@
+print(3+3)
+print(124-100)
+print(100*20)
+print(40/20)
+print(100//20)
+print(23 % 20)
+
+
+name='gegi'
+age='15'
+color='red'
+car='mercedes'
+city='tbilisi'
+
+print("my name is " + name + " i am " + age + " years old. " + "my favorite color is " + color + ". " + " my favorite car is " + car + " and i live in " + city)

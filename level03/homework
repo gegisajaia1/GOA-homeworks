@@ -1,0 +1,68 @@
+# კოდის წერის პროცესი შედგება სამი ნაწილისგან writting code(კოდის დაწერა) running(კოდის გაშვება) და debugging(შეცდომების შესწორება)-ისგან 
+
+
+print(10+5)
+print(879+24)
+print(132+421)
+print(10+98)
+
+print(90-14)
+print(23-12)
+print(13+24)
+print(2653-2652)
+
+print(3*2)
+print(6*23)
+print(3521916*0)
+print(20*10)
+
+print(90/9)
+print(120/10)
+print(70/1)
+print(75/25)
+ 
+print(41//20)
+print(7//5)
+print(37//10)
+print(98//15)
+
+print(90%13)
+print(15%7)
+print(72%15)
+print(49%5)
+
+# / გაყოფის დროს ყოველთვის ვიღებთ ათწილად რიცხვს ანუ float-ს // გაყოფისას კი ვიგებთ რამდენჯერ ჩაეტევა x-რიცხვში  y რიცხვი
+# case sensitive როდესაც დიდ ასოებს გავურევთ პატარა ასოებში ან მარტო დიდით დავწერთ ერორს ამოაგდებს case insensitive-ის დროს ეს არ ხდება და უპრობლემოდ გვაწერინებს კოდს
+
+car='Koenigsegg Jesko Absolut '
+car2='2026 Toyota GR Corolla.  '
+car3=' Toyota Corolla '
+car4='Honda Civic. '
+car5='1996 Dodge Viper GTS'
+print("the fastest car in the world is" + car + "but if you want your car to be fast and economic just buy the " + car2 + "the most reliable car is" + car3 + "or " + car4 + "but personally i like " + car5 + "the most.")
+
+
+num1=10
+num2=5
+num3=3
+print(num1 + num2)
+print(num1 + num3)
+print(num2 + num3)
+
+print(num1-num2)
+print(num1-num3)
+print(num2-num3)
+
+print(num1*num2)
+print(num1*num3)
+print(num2*num3)
+
+print(num1/num2)
+print(num1/num3)
+print(num2/num3)
+
+print(num2//num3)
+print(num1//num3)
+
+print(num1%num3)
+print(num2%num3)
