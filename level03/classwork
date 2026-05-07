@@ -1,15 +1,13 @@
-print(3+3)
-print(124-100)
-print(100*20)
-print(40/20)
-print(100//20)
-print(23 % 20)
-
-
-name='gegi'
-age='15'
-color='red'
-car='mercedes'
-city='tbilisi'
-
-print("my name is " + name + " i am " + age + " years old. " + "my favorite color is " + color + ". " + " my favorite car is " + car + " and i live in " + city)
+name=input("please input your name: ")
+print("your name has been set to " + name) 
+surname=input("please input your surname: ")
+print("your surname is" + surname)
+age=input("enter your age: ")
+print("your age is" + age)
+city=input("enter the city you live in: ")
+print("your city is" + city)
+country=input("enter the country you live in: ")
+print("your country is" + country)
+name=type("gegi")
+age=type(15)
+number=type(15.2)

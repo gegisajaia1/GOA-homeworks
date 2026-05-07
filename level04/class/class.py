@@ -1,0 +1,16 @@
+name=input("please input your name: ")
+print("your name has been set to " + name)
+surname=input("please input your surname: ")
+print("your surname is" + surname)
+age=input("enter your age: ")
+print("your age is" + age)
+city=input("enter the city you live in: ")
+print("your city is" + city)
+country=input("enter the country you live in: ")
+print("your country is" + country)
+print("my name is " + name + surname + "i am " + age + " years old I live in " + city + ", which is located in " + country + ".")
+
+
+name=type("gegi")
+age=type(15)
+number=type(15.2)
