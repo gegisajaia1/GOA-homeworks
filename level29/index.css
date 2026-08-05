@@ -1,0 +1,25 @@
+div{
+    background-color: blue;
+}
+
+
+#banner {
+  background-color: yellow;
+}
+
+
+.box {
+  border: 1px solid black;
+}
+
+.main p {
+  color: red;
+}
+
+.red-text {
+  color: red;
+}
+
+#title {
+  color: blue;
+}
