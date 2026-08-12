@@ -56,21 +56,19 @@ ends_with_urgent = log_record.endswith("#urgent")
 print("მთავრდება #urgent-ით? -", ends_with_urgent)
 
 
-backup_count = log_record.count("#backup")
-print("#backup-ის რაოდენობა:", backup_count)
+backup = log_record.count("#backup")
+print("#backup-ის რაოდენობა:", backup)
 
 failed_index = log_record.find("failed")
 if failed_index != -1:
     print("'failed'-ის ინდექსი:", failed_index)
 
 
-at_index = log_record.index("@")
-print("'@' სიმბოლოს ინდექსი:", at_index)
+index = log_record.index("@")
+print("'@' სიმბოლოს ინდექსი:", index)
 
 
 words_list = log_record.split(" ")
-
-
 print("მე-8 სიტყვა დიდი ასოებით:", words_list[7].upper())
 
 

@@ -13,3 +13,14 @@ print(email.find('@'))
 
 book=input('enter book name: ')
 print(book.title())
+
+sentance=input('enter your sentance: ')
+symbol=input('enter symbol: ')
+print(sentance.find(symbol))
+
+
+word = input('enter word: ')
+if word.isupper():
+ print("სიტყვა უკვე დიდია!")
+else:
+ print(word.upper())

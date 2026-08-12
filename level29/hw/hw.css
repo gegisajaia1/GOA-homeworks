@@ -5,3 +5,46 @@
 .main .inner p {
   background-color: yellow;
 }
+
+
+.box {
+  color: blue;
+  font-family: Georgia, serif;
+}
+
+.box button {
+  background-color: orange;
+  color: white;
+}
+
+
+#hero {
+  background-color: #f0e6ff;
+  padding: 40px;
+}
+
+.test {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.test-primary {
+  background-color: blue;
+  color: white;
+}
+
+.test-secondary {
+  background-color: gray;
+  color: white;
+}
+
+
+.info {
+  color: green;
+}
+
+#special {
+  color: red;
+}

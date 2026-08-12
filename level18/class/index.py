@@ -5,20 +5,20 @@
 # .lower()  ყველა ასოს პატარად გადაიყვანს
 # .capitalize() მხოლოდ პირველ ასოს დიდად გადაიყვანს
 
-# color = "green"
-# print(color.upper())
-# dude = 'mud'
-# print(dude.upper())
+color = "green"
+print(color.upper())
+dude = 'mud'
+print(dude.upper())
 
-# color="yellow"
-# print(color.lower())
-# man='teacher'
-# print(man.lower())
+color="yellow"
+print(color.lower())
+man='teacher'
+print(man.lower())
 
-# city='tbilisi'
-# print(city.capitalize)
-# country='georgia'
-# print(country.capitalize)
+city='tbilisi'
+print(city.capitalize)
+country='georgia'
+print(country.capitalize)
 
 
 sentence = "Hello world!"

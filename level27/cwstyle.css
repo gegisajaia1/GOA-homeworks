@@ -1,0 +1,85 @@
+h5 {
+    padding: 10px;
+    margin: 10px;
+}
+
+.one {
+    color: white;
+    background-color: crimson;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.two {
+    color: darkblue;
+    background-color: lightyellow;
+    font-size: 22px;
+    text-align: left;
+    border: 2px solid darkblue;
+}
+
+.three {
+    color: white;
+    background-color: seagreen;
+    font-size: 18px;
+    text-align: right;
+    border-radius: 20px;
+}
+
+.four {
+    color: black;
+    background-color: lightgray;
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.five {
+    color: white;
+    background-color: purple;
+    font-size: 19px;
+    font-style: italic;
+    border-bottom: 3px solid black;
+}
+
+.six {
+    color: orange;
+    background-color: black;
+    font-size: 21px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.seven {
+    color: white;
+    background-color: teal;
+    font-size: 20px;
+    font-weight: bold;
+    box-shadow: 3px 3px 5px gray;
+}
+
+.eight {
+    color: maroon;
+    background-color: pink;
+    font-size: 18px;
+    text-decoration: underline;
+    border-left: 5px solid maroon;
+}
+
+.nine {
+    color: white;
+    background-color: navy;
+    font-size: 22px;
+    text-align: center;
+    border-radius: 15px;
+    opacity: 0.9;
+}
+
+.ten {
+    color: black;
+    background-color: gold;
+    font-size: 23px;
+    text-align: right;
+    border: 3px dashed black;
+}
