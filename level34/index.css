@@ -1,0 +1,22 @@
+#link {
+  color: purple;
+  text-decoration: none;
+}
+
+#link2:hover {
+  color: green;
+  text-decoration: underline;
+}
+
+#link3:active {
+  color: red;
+}
+
+table {
+  border: #333;
+}
+
+td {
+  border: 1px solid #333;
+  padding: 8px 12px;
+}

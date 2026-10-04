@@ -1,0 +1,36 @@
+table {
+  border-spacing: 5px;
+  text-align: center;
+}
+
+th, td {
+  font-size: 18px;
+  color: #000000;
+  border: 1px solid #ffffff; 
+}
+
+th {
+  font-weight: bold;
+}
+
+tr:nth-child(1) th:nth-child(1) { background-color: green; }
+tr:nth-child(1) th:nth-child(2) { background-color: blue; }
+tr:nth-child(1) th:nth-child(3) { background-color: yellow; }
+
+tr:nth-child(2) td:nth-child(1) { background-color: purple; }
+tr:nth-child(2) td:nth-child(2) { background-color: antiquewhite; }
+tr:nth-child(2) td:nth-child(3) { background-color: yellow; }
+
+tr:nth-child(3) td:nth-child(1) { background-color: violet; }
+tr:nth-child(3) td:nth-child(2) { background-color: tan; }
+tr:nth-child(3) td:nth-child(3) { background-color: red; }
+
+tr:nth-child(4) td:nth-child(1) { background-color: yellow; }
+tr:nth-child(4) td:nth-child(2) { background-color: firebrick; }
+tr:nth-child(4) td:nth-child(3) { background-color: dodgerblue; }
+
+tr:nth-child(5) td:nth-child(2) { background-color: darkblue; }
+tr:nth-child(5) td:nth-child(3) { background-color: green; }
+
+
+

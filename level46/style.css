@@ -1,0 +1,22 @@
+.gridbackground {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  width: 480px;
+  height: 480px;
+  background-color: #05fd79; 
+  border-radius: 16px;
+  border: 3px dashed #8c1414;
+}
+
+.post {
+  display: flex;
+  align-items: flex-start;
+  padding: 4px;
+  color: #26be44;
+  font-weight: bold;
+  font-size: 14px;
+  border-right: 2px dashed #ff0202;
+  border-bottom: 2px dashed #ffffff;
+  box-sizing: border-box;
+}
