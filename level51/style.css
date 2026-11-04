@@ -1,0 +1,27 @@
+#div{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    transform: translate(50deg,50deg)
+}
+
+#div1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    transform: scale(1.5);
+}
+
+#div2{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    transform: skew(20deg,20deg);
+}
+
+#div3{
+     width: 200px;
+    height: 200px;
+    background-color: yellow;
+    transform: rotate(45deg);
+}

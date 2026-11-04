@@ -1,0 +1,26 @@
+
+.parent{
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+    border: solid black 1px;
+}
+
+.parent:hover{
+    background-color: purple;
+    border: 5px dotted red;
+    transition: all 3s;
+}
+
+#button{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    color: white;
+}
+
+#button:hover{
+    transition: all 2s;
+    background-color: white;
+    color: black;
+}
